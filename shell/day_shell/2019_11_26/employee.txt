@@ -1,0 +1,7 @@
+400 ashok sharma $1,250
+
+100 jason smith  $5,000
+
+200 john doe  $500
+
+300 sanjay gupta  $3,000
